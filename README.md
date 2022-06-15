@@ -1,4 +1,4 @@
 ## Installation
 ```shell
-npm install --save-dev @ym/eslint-config
+npm install --save-dev @ymeskini/eslint-config
 
