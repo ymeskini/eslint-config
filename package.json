@@ -5,8 +5,8 @@
   "homepage": "https://github.com/ymeskini/eslint-config#readme",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.5.0",
-    "@typescript-eslint/parser": "^6.5.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
+    "@typescript-eslint/parser": "^6.7.4",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0"
   },
@@ -16,5 +16,6 @@
     "typescript": ">=5"
   },
   "author": "ymeskini",
-  "description": "Youssef Meskini eslint config"
+  "description": "Youssef Meskini eslint config",
+  "devDependencies": {}
 }
